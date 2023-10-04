@@ -1,0 +1,12 @@
+<Config>
+    <PlayerName Value="Ecco" />
+    <StarCount Value="1000" />
+    <ShowFPS Value="1" />
+    <GodMode Value="1" />
+    <ShowHUD Value="1" />
+    <ShowTarget Value="1" />
+    <ShowMiniMap Value="1" />
+    <PlayerShipID Value="12" />
+    <ServerAddress Value="192.168.0.3" />
+    <Team Value="1" />
+</Config>

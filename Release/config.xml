@@ -1,0 +1,12 @@
+<Config>
+    <PlayerName Value="" />
+    <StarCount Value="0" />
+    <ShowFPS Value="0" />
+    <GodMode Value="0" />
+    <ShowHUD Value="0" />
+    <ShowTarget Value="0" />
+    <ShowMiniMap Value="0" />
+    <PlayerShipID Value="10" />
+    <ServerAddress Value="" />
+    <Team Value="0" />
+</Config>
